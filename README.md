@@ -1,4 +1,4 @@
-# 🚀 Nullbanker Sender
+# Nullbanker Sender
 
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
@@ -9,7 +9,7 @@ O **Nullbanker Sender** é a plataforma oficial da **Nullbanker** para envio de 
 
 ---
 
-## ⚠️ AVISOS IMPORTANTES (Leia antes de usar)
+## AVISOS IMPORTANTES (Leia antes de usar)
 
 1. **Falso Positivo de Antivírus:** O executável foi gerado com PyInstaller. É **normal** que o Windows Defender ou o Chrome exibam um alerta dizendo *"O Windows protegeu o seu PC"*. Para executar, clique em **"Mais informações"** e depois em **"Executar assim mesmo"**.
 2. **Uso Responsável:** Esta ferramenta é destinada ao envio de e-mails **transacionais** e legítimos (para contatos que consentiram com o recebimento). O uso para **spam** é estritamente proibido e viola os Termos de Serviço do Gmail e a legislação brasileira (Marco Civil da Internet).
@@ -18,7 +18,7 @@ O **Nullbanker Sender** é a plataforma oficial da **Nullbanker** para envio de 
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Interface SaaS Moderna:** Tema Dark Mode com paleta profissional.
 - **Autenticação de Acesso:** Login restrito a operadores autorizados.
@@ -29,7 +29,7 @@ O **Nullbanker Sender** é a plataforma oficial da **Nullbanker** para envio de 
 
 ---
 
-## 🚀 Tutorial de Instalação (Para Usuários Finais)
+## Tutorial de Instalação (Para Usuários Finais)
 
 ### Opção 1: Baixar o Executável (Recomendado para Windows)
 
